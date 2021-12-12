@@ -1,4 +1,6 @@
 # Cybersecurity Forensics
+Welcome to the world of forensics in Cybersecurity.
+> A collection of forensics tools, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity.
 
 - [Collections](#collections)
 - [Tools](#tools)
