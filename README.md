@@ -52,6 +52,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
 
+**[`^        back to top        ^`](#)**
+
 ### Distributions
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
@@ -59,6 +61,9 @@ Welcome to the world of forensics in Cybersecurity.
 - [SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
 - [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution for forensic analysis
 - [WinFE](https://www.winfe.net/home) - Windows Forensics enviroment
+
+
+**[`^        back to top        ^`](#)**
 
 ### Frameworks
 
@@ -74,6 +79,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
 - [Wombat Forensics](https://github.com/pjrinaldi/wombatforensics) - Forensic GUI tool
 
+**[`^        back to top        ^`](#)**
+
 ### Live Forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
@@ -82,12 +89,16 @@ Welcome to the world of forensics in Cybersecurity.
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
 - [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris.
 
+**[`^        back to top        ^`](#)**
+
 ### IOC Scanner
 
 - [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple Bash IOC Scanner
 - [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and Incident Response Scanner
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Free endpoint security tool from FireEye
 - [THOR Lite](https://www.nextron-systems.com/thor-lite/) - Free IOC and YARA Scanner
+
+**[`^        back to top        ^`](#)**
 
 ### Acquisition
 
@@ -104,12 +115,16 @@ Welcome to the world of forensics in Cybersecurity.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 - [WinTriage](https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/) - Wintriage is a live response tool that extracts Windows artifacts. It must be executed with local or domain administrator privileges and recommended to be done from an external drive.
 
+**[`^        back to top        ^`](#)**
+
 ### Imaging
 
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
 - [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3-4-3) - Free imageing tool for windows
 - :star: [Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
+
+**[`^        back to top        ^`](#)**
 
 ### Carving
 
@@ -118,6 +133,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [floss](https://github.com/mandiant/flare-floss) - Static analysis tool to automatically deobfuscate strings from malware binaries
 - :star: [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File carving tool
 - [swap_digger](https://github.com/sevagas/swap_digger) - A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.
+
+**[`^        back to top        ^`](#)**
 
 ### Memory Forensics
 
@@ -129,11 +146,15 @@ Welcome to the world of forensics in Cybersecurity.
 - [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
+**[`^        back to top        ^`](#)**
+
 ### Network Forensics
 
 - [Kismet](https://github.com/kismetwireless/kismet) - A passive wireless sniffer
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - Network Forensic Analysis Tool
 - :star: [WireShark](https://www.wireshark.org/) - A network protocol analyzer
+
+**[`^        back to top        ^`](#)**
 
 ### Windows Artifacts
 
@@ -145,6 +166,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis
 - [RegRippy](https://github.com/airbus-cert/regrippy) - A framework for reading and extracting useful forensics data from Windows registry hives
 
+**[`^        back to top        ^`](#)**
+
 
 #### NTFS/MFT Processing
 
@@ -155,6 +178,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
+
+**[`^        back to top        ^`](#)**
 
 ### OS X Forensics
 
@@ -176,6 +201,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - An app for extracting data from iPhone and iPad backups.
 
+**[`^        back to top        ^`](#)**
+
 
 ### Docker Forensics
 
@@ -189,6 +216,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 - [unfurl](https://github.com/obsidianforensics/unfurl) - Extract and visualize data from URLs
 
+**[`^        back to top        ^`](#)**
+
 ### Timeline Analysis
 
 - [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export using GRR and Rekall
@@ -197,6 +226,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [timeliner](https://github.com/airbus-cert/timeliner) - A rewrite of mactime, a bodyfile reader
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 
+**[`^        back to top        ^`](#)**
+
 ### Disk image handling
 
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device
@@ -204,6 +235,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [libewf](https://github.com/libyal/libewf) - Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)
 - [PancakeViewer](https://github.com/forensicmatt/PancakeViewer) - Disk image viewer based in dfvfs, similar to the FTK Imager viewer
 - [xmount](https://www.pinguin.lu/xmount) - Convert between different disk image formats
+
+**[`^        back to top        ^`](#)**
 
 ### Decryption
 
@@ -238,6 +271,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [OpenLearn](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?active-tab=description-tab) - Digital forensic course
 - [Training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational) - Online training material by European Union Agency for Network and Information Security for different topics (e.g. [Digital forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics), [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics))
 
+**[`^        back to top        ^`](#)**
+
 ### CTFs and Challenges
 
 - [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
@@ -251,6 +286,8 @@ Welcome to the world of forensics in Cybersecurity.
 - [NW3C Chanllenges](https://nw3.ctfd.io)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
 - [ReverseEngineering Challenges](https://challenges.re)
+
+**[`^        back to top        ^`](#)**
 
 ## Resources
 
@@ -320,18 +357,20 @@ Vendors:
 
 ## Related Awesome Lists
 
-- [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Android Security](https://github.com/paulveilard/cybersecurity-android-security)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
 - [CTFs](https://github.com/paulveillard/cybersecurity-ctf)
-- [Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Hacking](https://github.com/paulveillard/cybersecurity-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
-- [Incident-Response](https://github.com/meirwah/awesome-incident-response)
+- [Incident-Response](https://github.com/paulveillard/cybersecurity-incident-response)
 - [Infosec](https://github.com/paulveillard/cybersecurity-infosec)
 - [Malware Analysis](https://github.com/paulveillard/cybersecurity-malware-analysis)
 - [Pentesting](https://github.com/enaqx/awesome-pentest)
 - [Security](https://github.com/paulveillard/cybersecurity)
-- [Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
+- [Social Engineering](https://github.com/paulveillard/cybersecurity-social-engineering)
 - [YARA](https://github.com/InQuest/awesome-yara)
+
+**[`^        back to top        ^`](#)**
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
