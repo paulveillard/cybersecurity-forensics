@@ -1,6 +1,7 @@
 # Cybersecurity Forensics
 Welcome to the world of forensics in Cybersecurity.
 > A collection of forensics tools, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity.
+> Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ![forensics](https://github.com/paulveillard/cybersecurity-forensics/blob/main/DigitalForensics.png)
 
