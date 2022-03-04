@@ -5,7 +5,7 @@ Welcome to the world of forensics in Cybersecurity.
 
 ![forensics](https://github.com/paulveillard/cybersecurity-forensics/blob/main/DigitalForensics.png)
 
-## Table of Contents
+##  `Table of Contents `
 
 - [Collections](#collections)
 - [Tools](#tools)
@@ -42,20 +42,20 @@ Welcome to the world of forensics in Cybersecurity.
 
 ---
 
-## Collections
+##  `Collections `
 
 - [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 - [DFIR.Training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
 - :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
 
-## Tools
+##  `Tools `
 
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
 
 **[`^        back to top        ^`](#)**
 
-### Distributions
+###  `Distributions `
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
 - [Remnux](https://remnux.org/) - Distro for reverse-engineering and analyzing malicious software
@@ -66,7 +66,7 @@ Welcome to the world of forensics in Cybersecurity.
 
 **[`^        back to top        ^`](#)**
 
-### Frameworks
+###  `Frameworks `
 
 - :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dff](https://github.com/arxsys/dff) - Forensic framework
@@ -82,7 +82,7 @@ Welcome to the world of forensics in Cybersecurity.
 
 **[`^        back to top        ^`](#)**
 
-### Live Forensics
+###  `Live Forensics`
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [Linux Expl0rer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask
