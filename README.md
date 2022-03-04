@@ -290,7 +290,7 @@ Welcome to the world of forensics in Cybersecurity.
 
 **[`^        back to top        ^`](#)**
 
-## Resources
+## `Resources`
 
 ### Web
 
@@ -356,7 +356,7 @@ Vendors:
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 - [SANS Posters](https://www.sans.org/posters/) - Free posters provided by SANS
 
-## Related Awesome Lists
+## `Related Awesome Lists`
 
 - [Android Security](https://github.com/paulveilard/cybersecurity-android-security)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
