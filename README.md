@@ -182,7 +182,7 @@ A collection of forensics tools, software, libraries, learning tutorials, framew
 
 **[`^        back to top        ^`](#)**
 
-### OS X Forensics
+### `OS X Forensics`
 
 - [APFS Fuse](https://github.com/sgan81/apfs-fuse) - A read-only FUSE driver for the new Apple File System
 - [mac_apt (macOS Artifact Parsing Tool)](https://github.com/ydkhatri/mac_apt) - Extracts forensic artifacts from disk images or live machines
@@ -373,7 +373,7 @@ Vendors:
 
 **[`^        back to top        ^`](#)**
 
-## License
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
